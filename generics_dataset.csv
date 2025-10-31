@@ -1,0 +1,21 @@
+generic,instance,nongeneric,type
+Stars are visible at night,These stars are visible tonight,Those stars are not visible tonight,normal
+Birds build nests in trees,This bird builds its nest in a tree,That bird does not build its nest on a tree,normal
+Cats have tails,This cat has a tail,That cat does not have a tail,normal
+Lions have manes,This lion has a mane,That lion does not have a mane,normal
+Shoes have laces,This shoe has laces,That loafer has no laces,normal
+Bikes have two wheels,This bike has two wheels,That bike has three wheels,normal
+Spider have eight legs,This spider has eight legs,That spider has a missing leg,normal
+Book have pages,This book has pages,That digital book has no pages,normal
+Bees make honey,This bee makes honey,That drone bee does not make honey,normal
+Elephants have tusks,This elephant has tusks,That elephant has no tusks,normal
+Pigs oink,This pig oinks,That pig barks,contextual
+Polar bears live in North Pole,This polar bear lives in North Pole,That polar bear lives in San Diego,contextual
+Houses are built on land,This house is built on land,That house is built on water,contextual
+Teachers work in school,This teacher works in school,That teacher teaches online at home,contextual
+Rivers flow to the sea,This river flows to the sea,That river ends in a desert sinkhole,contextual
+Presidents live in the White House,This president lives in the White House,The former president lives in a penthouse in New York,contextual
+Windows are made of glass,This window is made of glass,That window is boarded up,contextual
+Roses are red,This rose is red,That rose is white,contextual
+Cars run on gasoline,This car run on gasoline,That car is electric,contextual
+Trees lose their leaves in autumn,This tree loses its leaves in autumn,That evergreen keeps its leaves in autumn,contextual
