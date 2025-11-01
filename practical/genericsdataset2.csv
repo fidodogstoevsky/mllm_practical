@@ -1,21 +1,21 @@
-﻿Generics,Non-generics,Negated generic,
-Stars are visible at night,Those stars are not visible tonight,Stars are not visible at night,
-Birds build nests in trees,That bird does not build its nest on a tree,Birds do not build nests in trees,
-Cats have tails,That cat does not have a tail ,Cats do not have tails,
-Lions have manes ,That lion does not have a mane,Lions do not have manes,
-Shoes have laces,That loafer has no laces,Shoes do not have laces,
-Bikes have two wheels,That bike has three wheels,Bikes do not have two wheels,
-Spider have eight legs,That spider has a missing leg,Spiders do not have eight legs,
-Book have pages,That digital book has no pages,Books do not have pages,
-Bees make honey,That drone bee does not make honey,Bees do not make honey,
-Elephants have tusks,That elephant has no tusks,Elephants do not have tusks,
-Pigs oink,That pig barks,Pigs do not oink,
-Polar bears live in North Pole,That polar bear lives in San Diego,Polar bears do not live in the North Pole,
-Houses are built on land,That house is built on water,Houses are not built on land,
-Teachers work in school,That teacher teaches online at home,Teachers do not work in school,
-Rivers flow to the sea,That river ends in a desert sinkhole,Rivers do not flow to the sea,
-Presidents live in the White House,The former president lives in a penthouse in New York,Presidents do not live in the White House,
-Windows are made of glass,That window is boarded up,Windows are not made of glass,
-Roses are red,That rose is white,Roses are not red,
-Cars run on gasoline,That car is electric,Cars do not run on gasoline,
-Trees lose their leaves in autumn,That evergreen keeps its leaves in autumn,Trees do not lose their leaves in autumn,
+﻿Generics,Negated generic,Nongeneric
+Stars are visible at night,Stars are not visible at night,Those stars are not visible tonight
+Birds build nests in trees,Birds do not build nests in trees,That bird does not build its nest on a tree
+Cats have tails,Cats do not have tails,That cat does not have a tail 
+Lions have manes ,Lions do not have manes,That lion does not have a mane
+Shoes have laces,Shoes do not have laces,That loafer has no laces
+Bikes have two wheels,Bikes do not have two wheels,That bike has three wheels
+Spider have eight legs,Spiders do not have eight legs,That spider has a missing leg
+Book have pages,Books do not have pages,That digital book has no pages
+Bees make honey,Bees do not make honey,That drone bee does not make honey
+Elephants have tusks,Elephants do not have tusks,That elephant has no tusks
+Pigs oink,Pigs do not oink,That pig barks
+Polar bears live in North Pole,Polar bears do not live in the North Pole,That polar bear lives in San Diego
+Houses are built on land,Houses are not built on land,That house is built on water
+Teachers work in school,Teachers do not work in school,That teacher teaches online at home
+Rivers flow to the sea,Rivers do not flow to the sea,That river ends in a desert sinkhole
+Presidents live in the White House,Presidents do not live in the White House,The former president lives in a penthouse in New York
+Windows are made of glass,Windows are not made of glass,That window is boarded up
+Roses are red,Roses are not red,That rose is white
+Cars run on gasoline,Cars do not run on gasoline,That car is electric
+Trees lose their leaves in autumn,Trees do not lose their leaves in autumn,That evergreen keeps its leaves in autumn
