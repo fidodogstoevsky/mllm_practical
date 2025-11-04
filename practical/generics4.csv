@@ -1,0 +1,57 @@
+generic,instance1,instance2,question,answer
+Birds fly.,Robins are birds.,Penguins are birds. ,Robins fly.,1
+Stars are visible at night. ,Polaris is a star.,The sun is a star.,Polaris is visible at night.,1
+Birds build nests in trees.,Cardinals are birds.,Guillemots are birds.,Cardinals build nests in trees.,1
+Shoes have laces.,Sneakers are shoes.,Loafers are shoes.,Sneakers have laces.,1
+Books are made of paper.,Hardcover books are books.,Digital books are books.,Hardcover books are made of paper.,1
+Fish swim by moving their tail.,A trout is a fish.,A seahorse is a fish.,Trout swim by moving their tail.,1
+Mammals live on land.,A lion is a mammal.,A whale is a mammal.,Lions lives on land.,1
+Amphibians breathe using lungs as adults.,A frog is an amphibian.,A salamander is an amphibian.,Frogs breathe using lungs as adults.,1
+Insects have six legs.,An ant is an insect.,A praying mantis is an insect.,Ants have six legs.,1
+Cars use gasoline.,A sedan is a car.,A Tesla is a car.,Sedans use gasoline.,1
+Flowers bloom in the spring.,A tulip is a flower.,A chrysanthemum is a flower.,Tulips bloom in the spring.,1
+Trees shed their leaves in the fall.,An oak is a tree.,A pine is a tree.,Oaks shed their leaves in the fall.,1
+Planets are mainly rocky.,Mars is a planet.,Jupiter is a planet.,Mars is mainly rocky.,1
+Spiders catch prey in a web.,A garden spider is a spider.,A tarantula is a spider.,Garden spiders catches prey in a web.,1
+Rivers flow into the ocean.,The Nile is a river.,The Okavango is a river.,The Nile flows into the ocean.,1
+Coaches train sports teams.,Football coaches are coaches.,Voice coaches are coaches.,Football coaches train sports teams.,1
+Sprinters have two legs.,Usain Bolt is a sprinter.,Oscar Pistorius is a sprinter.,Usain Bolt has two legs.,1
+Soup is served hot.,Chicken soup is a soup.,Gazpacho is a soup.,Chicken soup is served hot.,1
+Adults can legally vote.,A 40-year-old citizen is an adult.,A 17-year-old citizen is an adult.,40-year-old citizens can legally vote.,1
+Buildings have multiple stories.,A skyscraper is a building.,A bungalow is a building.,Skyscrapers have multiple stories.,1
+Programming languages use semicolons to end statements.,C++ is a programming language.,Python is a programming language.,C++ uses semicolons to end statements.,1
+Cities are densely populated.,New York City is a city.,Juneau is a city.,New York City is densely populated.,1
+Inventions are complex.,The smartphone is an invention.,The paperclip is an invention.,Smartphones are usually complex.,1
+Tools are used to build things.,A hammer is a tool.,A ruler is a tool.,Hammer is used to build things.,1
+Professions require formal certification.,A doctor is a profession.,An artist is a profession.,Doctors require formal certification.,1
+Liquids flow downhill.,Water is a liquid.,Mercury is a liquid.,Water flows downhill.,1
+Planets orbit the sun.,Earth is a planet.,Pluto is a planet.,Earth orbits the sun.,1
+Cats have fur.,Maine Coons are cats.,Canadian Sphinx are cats.,Maine Coons have fur.,1
+Birds fly.,Robins are birds.,Penguins are birds. ,Penguins fly.,0
+Stars are visible at night. ,Polaris is a star.,The sun is a star.,The sun is visible at night. ,0
+Birds build nests in trees.,Cardinals are birds.,Guillemots are birds.,Guillemots build nests in trees. ,0
+Shoes have laces.,Sneakers are shoes.,Loafers are shoes.,Loafers have laces.,0
+Books are made of paper.,Hardcover books are books.,Digital books are books.,Digital books are made of paper.,0
+Fish swim by moving their tail.,A trout is a fish.,A seahorse is a fish.,Seahorse swim by moving their tail.,0
+Mammals live on land.,A lion is a mammal.,A whale is a mammal.,Whale lives on land.,0
+Amphibians breathe using lungs as adults.,A frog is an amphibian.,A salamander is an amphibian.,Salamanders breathes using lungs as adults.,0
+Insects have six legs.,An ant is an insect.,A praying mantis is an insect.,Praying mantis have six legs.,0
+Cars use gasoline.,A sedan is a car.,A Tesla is a car.,Teslas use gasoline.,0
+Flowers bloom in the spring.,A tulip is a flower.,A chrysanthemum is a flower.,Chrysanthemum blooms in the spring.,0
+Trees shed their leaves in the fall.,An oak is a tree.,A pine is a tree.,Pines shed their leaves in the fall.,0
+Planets are mainly rocky.,Mars is a planet.,Jupiter is a planet.,Jupiter is mainly rocky.,0
+Spiders catch prey in a web.,A garden spider is a spider.,A tarantula is a spider.,Tarantulas catches prey in a web.,0
+Rivers flow into the ocean.,The Nile is a river.,The Okavango is a river.,The Okavango flows into the ocean.,0
+Coaches train sports teams.,Football coaches are coaches.,Voice coaches are coaches.,Voice coaches train sports teams.,0
+Sprinters have two legs.,Usain Bolt is a sprinter.,Oscar Pistorius is a sprinter.,Oscar Pistorius has two legs.,0
+Soup is served hot.,Chicken soup is a soup.,Gazpacho is a soup.,Gazpacho is served hot.,0
+Adults can legally vote.,A 40-year-old citizen is an adult.,A 17-year-old citizen is an adult.,17-year-old citizens can legally vote.,0
+Buildings have multiple stories.,A skyscraper is a building.,A bungalow is a building.,Bungalows have multiple stories.,0
+Programming languages use semicolons to end statements.,C++ is a programming language.,Python is a programming language.,Python uses semicolons to end statements.,0
+Cities are densely populated.,New York City is a city.,Juneau is a city.,Juneau is densely populated.,0
+Inventions are complex.,The smartphone is an invention.,The paperclip is an invention.,Paperclips are complex.,0
+Tools are used to build things.,A hammer is a tool.,A ruler is a tool.,Rulers are used to build things.,0
+Professions require formal certification.,A doctor is a profession.,An artist is a profession.,Artists require formal certification.,0
+Liquids flow downhill.,Water is a liquid.,Mercury is a liquid.,Mercury flows downhill.,0
+Planets orbit the sun.,Earth is a planet.,Pluto is a planet.,Pluto orbits the sun.,0
+Cats have fur.,Maine Coons are cats.,Canadian Sphinx are cats.,Canadian Sphinx have fur.,0
